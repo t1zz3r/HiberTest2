@@ -1,0 +1,13 @@
+services\Service.class
+dao\ContactDao.class
+gui\AddController.class
+models\Model.class
+utils\HibernateSessionFactoryUtil.class
+Main.class
+services\ContactService.class
+dao\GroupDao.class
+dao\Dao.class
+models\Contact.class
+services\GroupService.class
+gui\Controller.class
+models\Group.class
